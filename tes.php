@@ -1,4 +1,5 @@
 <?php
+//https://hidemy.name/en/proxy-list/?type=5
 
 $url = 'http://dynupdate.no-ip.com/ip.php';
 $proxy = ''; //Proxy
